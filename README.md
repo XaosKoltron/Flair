@@ -1,2 +1,2 @@
-# Flair
-Another core management plugin
+# Aphla Phase
+Name is reserved for the meantime.
